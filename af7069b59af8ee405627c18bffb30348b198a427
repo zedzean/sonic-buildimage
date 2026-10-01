@@ -1,0 +1,19 @@
+src/sonic-swss
+  s_7e463134e0320f::t_64ed6cd0d62d1f 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "af7069b59af8ee405627c18bffb30348b198a427",
+  "prompts": {},
+  "sessions": {
+    "s_7e463134e0320f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f563c9480ffeIqoNOq0QCo1Ri5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zaahir Ahmed Syed <zaahir@cloudflare.com>"
+    }
+  }
+}

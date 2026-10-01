@@ -1,0 +1,25 @@
+platform/vpp
+  s_7e463134e0320f::t_62ef20669747d1 1
+src/sonic-sairedis
+  s_7e463134e0320f::t_e4641bd433edc3 1
+src/sonic-swss
+  s_7e463134e0320f::t_2dfd79fe55aa40 1
+src/sonic-utilities
+  s_7e463134e0320f::t_d503767e67c7fa 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5b39ecd46ac594148ba139f56466b671f6d78a50",
+  "prompts": {},
+  "sessions": {
+    "s_7e463134e0320f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f563c9480ffeIqoNOq0QCo1Ri5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zaahir Ahmed Syed <zaahir@cloudflare.com>"
+    }
+  }
+}
