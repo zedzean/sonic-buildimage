@@ -1,0 +1,33 @@
+platform/alpinevs
+  s_7e463134e0320f::t_0e71e34a910186 1
+platform/aspeed/sonic-platform-modules-arista
+  s_7e463134e0320f::t_523936d1843090 1
+platform/vpp
+  s_7e463134e0320f::t_61a26fd006ebc3 1
+src/sonic-host-services
+  s_7e463134e0320f::t_73e2991e268790 1
+src/sonic-redfish
+  s_7e463134e0320f::t_e6985bb116df51 1
+src/sonic-sairedis
+  s_7e463134e0320f::t_295015a57ab949 1
+src/sonic-swss
+  s_7e463134e0320f::t_83f22aa235dc11 1
+src/sonic-utilities
+  s_7e463134e0320f::t_cc73de33b962a9 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1cca0907fc2f3fe72268e7ccc88f8ae68b205792",
+  "prompts": {},
+  "sessions": {
+    "s_7e463134e0320f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f563c9480ffeIqoNOq0QCo1Ri5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zaahir Ahmed Syed <zaahir@cloudflare.com>"
+    }
+  }
+}
